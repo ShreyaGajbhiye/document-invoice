@@ -26,7 +26,7 @@ azure_api_version = st.secrets["azure_api_version"]
 azure_endpoint = st.secrets["azure_endpoint"]
 deployment_name = st.secrets["deployment_name"]
 key = st.secrets["azure_cv_api_key"]
-azure_cv_endpoint = st.secrets["azure_cv_endpoint"]
+# azure_cv_endpoint = st.secrets["azure_cv_endpoint"]
 
 
 azure_document_api_key = st.secrets["azure_document_api_key"]
