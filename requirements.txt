@@ -1,0 +1,9 @@
+pillow
+pandas
+openpyxl
+azure-core
+azure-ai-documentintelligence
+azure-ai-formrecognizer
+azure-cognitiveservices-vision-computervision
+msrest
+openai
